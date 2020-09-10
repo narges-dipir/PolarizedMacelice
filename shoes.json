@@ -1,0 +1,178 @@
+[
+  {
+    "bred_for": "nice leather",
+    "breed_group": "armany",
+    "height": {
+      "imperial": "9 - 11.5",
+      "metric": "23 - 29"
+    },
+    "id": 1,
+    "life_span": "10 - 12",
+    "name": "papaeri",
+    "origin": "Germany, France",
+    "style": "warm and casual",
+    "weight": {
+      "imperial": "6 - 13",
+      "metric": "3 - 6"
+    },
+    "url": "https://sc01.alicdn.com/kf/HTB1otxAlWigSKJjSsppq6ybnpXav.jpg"
+  },
+  {
+    "bred_for": "party and hosting",
+    "breed_group": "Hnd",
+    "country_code": "AG",
+    "height": {
+      "imperial": "25 - 27",
+      "metric": "64 - 69"
+    },
+    "id": 2,
+    "life_span": "10 - 13",
+    "name": "Hound",
+    "origin": "Gucci",
+    "style": "casual",
+    "weight": {
+      "imperial": "50 - 60",
+      "metric": "23 - 27"
+    },
+    "url": "https://gd.image-gmkt.com/li/447/679/1220679447.g_520-w_g.jpg"
+  },
+  {
+    "bred_for": "Working",
+    "height": {
+      "imperial": "30",
+      "metric": "76"
+    },
+    "id": 3,
+    "life_span": "11",
+    "name": "African",
+    "origin": "",
+    "style": " Dutiful",
+    "weight": {
+      "imperial": "44 - 66",
+      "metric": "20 - 30"
+    },
+    "url": "https://images-na.ssl-images-amazon.com/images/I/41pRWPfYpPL.jpg"
+  },
+  {
+    "bred_for": "Outgoing",
+    "breed_group": "Gucci",
+    "height": {
+      "imperial": "21 - 23",
+      "metric": "53 - 58"
+    },
+    "id": 4,
+    "life_span": "10 - 13 years",
+    "name": "Gucci",
+    "origin": "United Kingdom",
+    "style": "party",
+    "weight": {
+      "imperial": "40 - 65",
+      "metric": "18 - 29"
+    },
+    "url": "https://www.shopperwear.com/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/n/e/new-fashion-botas-mujer-warm-fur-ankle-boots-winter-autumn-new-design-women-0-extra.jpg"
+  },
+  {
+    "bred_for": "Working",
+    "breed_group": "Working",
+    "height": {
+      "imperial": "28 - 34",
+      "metric": "71 - 86"
+    },
+    "id": 5,
+    "life_span": "10 - 12",
+    "name": "Akbash",
+    "origin": "",
+    "style": "casual and nice",
+    "weight": {
+      "imperial": "90 - 120",
+      "metric": "41 - 54"
+    },
+    "url": "https://imcut.jollychic.com//uploads/jollyimg/imageService/img/goods/2019/04/23/22/05/77da47f9-c9fe-4d7e-ad9e-af461f7dc4ed.jpg"
+  },
+  {
+    "bred_for": "Working",
+    "breed_group": "Working",
+    "height": {
+      "imperial": "24 - 28",
+      "metric": "61 - 71"
+    },
+    "id": 6,
+    "life_span": "10 - 14 years",
+    "name": "Akita",
+    "style": "party and Working",
+    "weight": {
+      "imperial": "65 - 115",
+      "metric": "29 - 52"
+    },
+    "url": "https://www.dhresource.com/0x0/f2/albu/g4/M01/4F/C5/rBVaEVnsE6aAZx2aAACAzV3N7no795.jpg"
+  },
+  {
+    "bred_for": "sleeping",
+    "breed_group": "Mixed",
+    "description": "TTT",
+    "height": {
+      "imperial": "18 - 24",
+      "metric": "46 - 61"
+    },
+    "history": "",
+    "id": 7,
+    "life_span": "12 - 13",
+    "name": "Jimmy Choo",
+    "style": "evening",
+    "weight": {
+      "imperial": "55 - 90",
+      "metric": "25 - 41"
+    },
+    "url": "https://starioshoes.com.au/wp-content/uploads/2017/12/m1734brown.jpg"
+  },
+  {
+    "bred_for": "sleeping",
+    "breed_group": "Mixed",
+    "height": {
+      "imperial": "23 - 26",
+      "metric": "58 - 66"
+    },
+    "id": 8,
+    "life_span": "10 - 13",
+    "name": "Jimmy Choo",
+    "style": "School",
+    "weight": {
+      "imperial": "38 - 50",
+      "metric": "17 - 23"
+    },
+    "url": "https://starioshoes.com.au/wp-content/uploads/2017/06/M1710Red.jpg"
+  },
+  {
+    "bred_for": "School and Working",
+    "breed_group": "Working",
+    "height": {
+      "imperial": "23 - 25",
+      "metric": "58 - 64"
+    },
+    "id": 9,
+    "life_span": "12 - 15",
+    "name": "Malamute",
+    "style": "party and casual",
+    "weight": {
+      "imperial": "65 - 100",
+      "metric": "29 - 45"
+    },
+    "url": "https://i.pinimg.com/originals/7a/4d/2f/7a4d2fffbe15339ca6c2189b8b40f7d5.jpg"
+  },
+  {
+    "breed_group": "Working",
+    "height": {
+      "imperial": "22 - 27",
+      "metric": "56 - 69"
+    },
+    "id": 10,
+    "life_span": "10 - 12",
+    "name": "armany",
+    "style": "School",
+    "weight": {
+      "imperial": "60 - 120",
+      "metric": "27 - 54"
+    },
+    "url": "https://www.macs.com.au/wp-content/uploads/2019/04/k2-haven-snowboard-boots-women-s-2019-black.jpg"
+  }
+]
